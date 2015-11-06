@@ -1,5 +1,4 @@
 #include "HelloWorldScene.h"
-#include <vector>
 
 USING_NS_CC;
 
