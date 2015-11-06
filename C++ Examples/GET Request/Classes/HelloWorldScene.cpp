@@ -1,4 +1,5 @@
 #include "HelloWorldScene.h"
+#include <vector>
 
 USING_NS_CC;
 
@@ -47,6 +48,15 @@ bool HelloWorld::init()
 
 void HelloWorld::onHttpRequestCompleted( cocos2d::network::HttpClient *sender, cocos2d::network::HttpResponse *response )
 {
+    std::vector<char> *buffer = response->getResponseData( );
+    
+    printf( "Get data: ");
+    for ( unsigned int i = 0; i < buffer->size( ); i++ )
+    {
+        printf( "%c", ( *buffer )[i] );
+    }
+    printf( "\n" );
+    
     if ( 200 != response->getResponseCode( ) )
     {
         printf( "Succeeded" );
