@@ -26,3 +26,9 @@
     </ul>
   </li>
 </ul>
+
+<h4>More Information On HTTP Requests</h4>
+<ul>
+  <li>http://www.restapitutorial.com/lessons/httpmethods.html</li>
+  <li>http://www.tutorialspoint.com/http/http_methods.htm</li>
+</ul>
