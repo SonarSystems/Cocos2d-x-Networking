@@ -21,7 +21,7 @@
   <li>
     POST request
     <ul>
-      <li>Video - coming soon</li>
+      <li>Video - http://bit.ly/1HD60I0</li>
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/C%2B%2B%20Examples/POST%20Request</li>
     </ul>
   </li>
