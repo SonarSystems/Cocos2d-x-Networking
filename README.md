@@ -27,6 +27,33 @@
   </li>
 </ul>
 
+<h4>JavaScript Video Tutorials</h4>
+<ul>
+  <li>
+    Setup
+    <ul>
+      <li>Video - coming soon</li>
+      <li>Source code - </li>
+    </ul>
+  </li>
+  
+  <li>
+    GET request
+    <ul>
+      <li>Video - coming soon</li>
+      <li>Source code - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    POST request
+    <ul>
+      <li>Video - coming soon</li>
+      <li>Source code - coming soon</li>
+    </ul>
+  </li>
+</ul>
+
 <h4>More Information On HTTP Requests</h4>
 <ul>
   <li>http://www.restapitutorial.com/lessons/httpmethods.html</li>
