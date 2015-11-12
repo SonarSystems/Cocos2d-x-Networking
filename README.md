@@ -33,7 +33,7 @@
     Setup
     <ul>
       <li>Video - coming soon</li>
-      <li>Source code - </li>
+      <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/Setup</li>
     </ul>
   </li>
   
