@@ -32,7 +32,7 @@
   <li>
     Setup
     <ul>
-      <li>Video - coming soon</li>
+      <li>Video - http://bit.ly/1ku6NAT</li>
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/Setup</li>
     </ul>
   </li>
@@ -41,7 +41,7 @@
     GET request
     <ul>
       <li>Video - coming soon</li>
-      <li>Source code - coming soon</li>
+      <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/GET%20Request</li>
     </ul>
   </li>
   
@@ -49,7 +49,7 @@
     POST request
     <ul>
       <li>Video - coming soon</li>
-      <li>Source code - coming soon</li>
+      <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/POST%20Request</li>
     </ul>
   </li>
 </ul>
