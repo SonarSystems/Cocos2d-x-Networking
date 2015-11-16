@@ -56,7 +56,7 @@ void HelloWorld::onHttpRequestCompleted( cocos2d::network::HttpClient *sender, c
     strcpy( concatenated, s2.c_str( ) );
     
     // JSON Parser
-    Json * json = Json_create( concatenated );
+    Json *json = Json_create( concatenated );
     int test1 = Json_getInt( json, "a", -1 );
     const char *test2 = Json_getString( json, "b", "default" );
     float test3 = Json_getFloat( json, "c", -1.0f );
