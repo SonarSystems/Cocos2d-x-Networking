@@ -25,6 +25,14 @@
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/C%2B%2B%20Examples/POST%20Request</li>
     </ul>
   </li>
+  
+  <li>
+    Return JSON Array
+    <ul>
+      <li>Video - coming soon</li>
+      <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/C%2B%2B%20Examples/Return%20JSON%20Array%20From%20Server%20To%20Cocos2d-x</li>
+    </ul>
+  </li>
 </ul>
 
 <h4>JavaScript Video Tutorials</h4>
@@ -50,6 +58,14 @@
     <ul>
       <li>Video - coming soon</li>
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/POST%20Request</li>
+    </ul>
+  </li>
+  
+  <li>
+    Return JSON Array
+    <ul>
+      <li>Video - coming soon</li>
+      <li>Source code - coming soon</li>
     </ul>
   </li>
 </ul>
