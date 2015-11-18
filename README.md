@@ -29,7 +29,7 @@
   <li>
     Return JSON Array
     <ul>
-      <li>Video - coming soon</li>
+      <li>Video - http://bit.ly/1HY1uyz</li>
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/C%2B%2B%20Examples/Return%20JSON%20Array%20From%20Server%20To%20Cocos2d-x</li>
     </ul>
   </li>
