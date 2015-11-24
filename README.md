@@ -65,7 +65,7 @@
     Return JSON Array
     <ul>
       <li>Video - coming soon</li>
-      <li>Source code - coming soon</li>
+      <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/Return%20JSON%20Array%20From%20Server%20To%20Cocos2d-x</li>
     </ul>
   </li>
 </ul>
