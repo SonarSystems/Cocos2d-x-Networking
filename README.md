@@ -48,7 +48,7 @@
   <li>
     GET request
     <ul>
-      <li>Video - coming soon</li>
+      <li>Video - http://bit.ly/1OdziON</li>
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/GET%20Request</li>
     </ul>
   </li>
@@ -56,7 +56,7 @@
   <li>
     POST request
     <ul>
-      <li>Video - coming soon</li>
+      <li>Video - http://bit.ly/1Odzn59</li>
       <li>Source code - https://github.com/SonarSystems/Cocos2d-x-Networking/tree/master/JavaScript%20Examples/POST%20Request</li>
     </ul>
   </li>
